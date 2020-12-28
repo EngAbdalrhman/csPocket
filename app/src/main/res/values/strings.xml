@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">csPocket</string>
+    <string name="size">size</string>
+    <string name="cs_pocket">CS Pocket</string>
+    <string name="color">color</string>
+    <string name="file_name">File Name</string>
+    <string name="sof_ech">Sofπech</string>
+    <string name="font">Font</string>
+    <string name="I">I</string>
+    <string name="bold">B</string>
+    <string name="save">SAVE</string>
+    <string name="_new">NEW</string>
+    <string name="load">LOAD</string>
+    <string name="enter_the_text">Enter The Text</string>
+    <string name="u">U</string>
+    <string name="c">C</string>
+    <string name="close">Close</string>
+    <string name="plus">+</string>
+    <string name="nespa">%</string>
+    <string name="zero">0</string>
+    <string name="dot">.</string>
+    <string name="time">X</string>
+    <string name="nine">9</string>
+    <string name="eight">8</string>
+    <string name="seven">7</string>
+    <string name="minous">-</string>
+    <string name="six">6</string>
+    <string name="five">5</string>
+    <string name="by">/</string>
+    <string name="four">4</string>
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="one">1</string>
+    <string name="equal">=</string>
+    <string name="todo">TODO</string>
+</resources>
